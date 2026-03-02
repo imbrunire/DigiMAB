@@ -1,0 +1,124 @@
+{
+  "metadati_descrittivi_inseriti_manualmente": {
+    "segnatura": "CNMD\\0000424589",
+    "data_creazione": "1959-07-23",
+    "materia": "Cartaceo",
+    "numero_carte": "c. 1",
+    "stato_conservazione": "Buono",
+    "luogo_creazione": "Pre-St-Didier",
+    "autore": "15313 Aleramo, Sibilla < 1876-1960 >"
+  },
+  "metadati_descrittivi_LLM": {
+    "lingua": "italiano moderno",
+    "tipologia_documento": "lettera privata",
+    "natura_documento": "autografo",
+    "tipo_scrittura": "corsivo moderno",
+    "abbreviazioni": [
+      "Tel. = Telefono",
+      "Cav. Uff. = Cavaliere Ufficiale",
+      "FR. = Francia"
+    ],
+    "aree_del_testo": [
+      "intestazione hotel con fotografia edificio",
+      "informazioni servizi hotel (colonna sinistra e destra)",
+      "corpo della lettera manoscritta",
+      "firma finale",
+      "busta con indirizzo destinatario",
+      "timbri postali sulla busta",
+      "numero archivistico in alto a destra"
+    ],
+    "descrizione_elementi": [
+      "Carta intestata Hotel Crammont et Des Alpes, Pre-St-Didier, Valle d'Aosta",
+      "Fotografia in bianco e nero dell'hotel con montagne sullo sfondo",
+      "Elenco servizi hotel in colonne laterali (ferrovia, autopullman, guide, passeggiate, sorgenti termali, etc.)",
+      "Numero archivistico '05.1303' scritto a mano in alto a destra",
+      "Busta con due timbri postali circolari: 'NESS PRE SAINT DIDIER AOSTA' datati 23.7.59",
+      "Numero '51' scritto a matita sulla busta",
+      "Proprietaria: Maria Caterina Ciocchetti Vaglienti",
+      "Direttore: Cav. Uff. Giovanni Vaglienti"
+    ],
+    "particolarità_linguistiche": {
+      "Aosta": "sottolineato nella parola (Aosta) nel testo manoscritto",
+      "fisie": "possibile errore di scrittura o abbreviazione per 'fisiche'"
+    },
+    "composizione_oggetto": "Immagine 1: fronte della lettera con carta intestata dell'hotel, fotografia, testo manoscritto e firma. Immagine 2: retro della lettera (bianco con trasparenza del testo). Immagine 3: fronte della busta con indirizzo del destinatario e timbri postali. Immagine 4: retro della busta (bianco)"
+  },
+  "trascrizione": "<archivaldescription>05.1303</archivaldescription>\n\n<!-- Pagina 1: Carta intestata dell'hotel con testo manoscritto -->\n\n<transcription>\n\nPRE-ST-DIDIER - VALLE D'AOSTA\n\nFERROVIA\nAOSTA - PRE ST-DIDIER:\nCOLLEGATA ALLA RETE\nNAZIONALE\nED INTERNAZIONALE\n\nAUTOPULLMAN\nMILANO\nTORINO\nGENOVA\n\nAUTOCORRIERE\nCOURMAYEUR\nLA THUILE\n\nPICCOLO S. BERNARDO\nBOURG ST. MAURICE\n(FR.)\n\nALTITUDINE\nMETRI 1010\n\nGUIDE E\nPORTATORI DEL CAI\n\nBELLE PASSEGGIATE\nTRA PINETE\nE\nDENSE PRATERIE\n\nSORGENTE\nTERMALE\nFERRUGINOSA\nCARBONICA\nARSENICALE\nRADIOATTIVA\n\nHôtel Crammont et Des Alpes\nBar Chez Catherine\n\nTelefono 432\n\nAL BIVIO DELLA STRADA INTERNAZIONALE AOSTA - PICCOLO S. BERNARDO - BOURG ST. MAURICE E STRADA AOSTA - COURMAYEUR - APERTO TUTTO L'ANNO - RITROVO SPORTIVO INVERNALE - POSTO TELEFONICO PUBBLICO - FRESCO SOGGIORNO ESTIVO - TRATTAMENTO FAMILIARE - GRANDE VERANDA BELVEDERE CON TOTALE VISIONE DELLE CATENE DEL MONTE BIANCO - TENNIS - GIARDINO - BAR - SALE E SALOTTI SOGGIORNO - ACQUA CORRENTE CALDA E FREDDA - CAMERE CON BAGNO - TELEFONO IN TUTTE LE CAMERE - RISCALDAMENTO CENTRALE - GARAGE RISCALDATO\n\nCome passa il mio soldatino gli ultimi giorni con la divisa? Scrivimi, Elio, qui è Pré-St-Didier - Hotel Grammont dove sono da tre giorni <s>(Aosta)</s> e vorrei rimanere sino a fine agosto. La perversi a ritrovare un po' di forza. Per il mio nuovo fascio perché è me stessa, tanta è la mia debolezza <s>(fisie)</s>. Sono sola. Riceverò da Roma un mio saluto? Qui è Venezia tre giorni. Come sta la tua Mamma? Vorrei tanto sepessi sereno nell'affrontare il nuovo periodo di vita di soldato.\n\n<sender>Sibilla</sender>\n\nProprietario: Maria Caterina Ciocchetti Vaglienti\nDirettore: Cav. Uff. Giovanni Vaglienti\n\n</transcription>\n\n<!-- Pagina 2: Retro della lettera (bianco) -->\n\n<!-- Pagina 3: Busta -->\n\n<archivaldescription>51</archivaldescription>\n\n<transcription>\n\nPRE ST-DIDIER\nVALLE D'AOSTA\n\nHôtel Crammont et Des Alpes\nBar Chez Catherine\nTel. 432\n\n<recipient>Soldato Elio Fiore\n\nDistretto Militare\n\nCampobasso</recipient>\n\n<place_sender>Pre-St-Didier</place_sender>\n<date>23.7.59</date>\n<place_recipient>Campobasso</place_recipient>\n\n[Timbri postali: NESS PRE SAINT DIDIER AOSTA 23.7.59]\n\n</transcription>\n\n<!-- Pagina 4: Retro della busta (bianco) -->",
+  "regesto": "Sibilla Aleramo scrive al soldato Elio Fiore il 23 luglio 1959 da Pré-St-Didier (Valle d'Aosta), dove soggiorna presso l'Hotel Crammont. Si informa su come il destinatario stia trascorrendo gli ultimi giorni con la divisa militare e gli chiede di scriverle. Esprime il desiderio di rimanere in montagna fino a fine agosto per recuperare le forze, lamentando una grande debolezza fisica. Chiede notizie della madre di Elio e si augura che egli affronti serenamente il nuovo periodo di vita da soldato.",
+  "regesto_fonti_utilizzate": {
+    "mittente": "metadati_esterni",
+    "destinatario": "trascrizione_tag_xml",
+    "data": "metadati_esterni",
+    "luogo": "metadati_esterni",
+    "contenuto": "trascrizione_testo",
+    "tipologia": "analisi_paleografica"
+  },
+  "regesto_metodo": "gerarchia_epistemica",
+  "regesto_note_metodologiche": "Tutte le informazioni principali provengono da fonti primarie ad alta affidabilità. La tipologia documento ha confidence 0.98. Il contenuto è stato estratto dalla trascrizione del testo manoscritto, che presenta alcune parole cancellate dall'autrice (Aosta, fisie). La busta conferma destinatario e timbri postali validano la data.",
+  "mets_xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<mets:mets xmlns:mets=\"http://www.loc.gov/METS/\" xmlns:dct=\"http://purl.org/dc/terms/\" xmlns:mix=\"http://www.loc.gov/mix/v20\" xmlns:mods=\"http://www.loc.gov/mods/v3\" xmlns:metsrights=\"http://cosimo.stanford.edu/sdr/metsrights/\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:schemaLocation=\"http://www.loc.gov/METS/ http://www.loc.gov/standards/mets/mets.xsd http://www.loc.gov/mix/v20 https://www.loc.gov/standards/mix/mix20/mix20.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/mods/v3/mods-3-8.xsd http://cosimo.stanford.edu/sdr/metsrights/ https://www.loc.gov/standards/rights/METSRights.xsd\" PROFILE=\"METS ECO-MiC 1.2\" OBJID=\"METS_CNMD0000424589\">\n  <mets:metsHdr ID=\"ID_CNMD0000424589\" CREATEDATE=\"2025-01-15T12:00:00\" RECORDSTATUS=\"COMPLETE\">\n    <mets:agent ROLE=\"CREATOR\" TYPE=\"ORGANIZATION\">\n      <mets:name>Ministero della Cultura</mets:name>\n    </mets:agent>\n    <mets:agent ROLE=\"IPOWNER\" TYPE=\"ORGANIZATION\">\n      <mets:name>Ministero della Cultura</mets:name>\n    </mets:agent>\n    <mets:agent ROLE=\"CUSTODIAN\" TYPE=\"ORGANIZATION\">\n      <mets:name>Biblioteca nazionale centrale - Roma</mets:name>\n    </mets:agent>\n  </mets:metsHdr>\n  <mets:dmdSec ID=\"dmd01\" STATUS=\"complete\">\n    <mets:mdWrap MDTYPE=\"MODS\" MIMETYPE=\"text/xml\" LABEL=\"MODS Metadata\">\n      <mets:xmlData>\n        <mods:mods>\n          <mods:typeOfResource>text</mods:typeOfResource>\n          <mods:genre authority=\"local\">lettera privata</mods:genre>\n          <mods:identifier type=\"logicalId\">CNMD0000424589</mods:identifier>\n          <mods:identifier type=\"conservativeId\">IT-RM0267</mods:identifier>\n          <mods:identifier type=\"conservativeIdAuthority\">ISIL</mods:identifier>\n          <mods:identifier type=\"managementId\">CNMD0000424589</mods:identifier>\n          <mods:identifier type=\"relationId\">representation</mods:identifier>\n          <mods:titleInfo>\n            <mods:title>Lettera di Sibilla Aleramo a Elio Fiore</mods:title>\n          </mods:titleInfo>\n          <mods:abstract>Sibilla Aleramo scrive al soldato Elio Fiore il 23 luglio 1959 da Pré-St-Didier (Valle d'Aosta), dove soggiorna presso l'Hotel Crammont. Si informa su come il destinatario stia trascorrendo gli ultimi giorni con la divisa militare e gli chiede di scriverle. Esprime il desiderio di rimanere in montagna fino a fine agosto per recuperare le forze, lamentando una grande debolezza fisica. Chiede notizie della madre di Elio e si augura che egli affronti serenamente il nuovo periodo di vita da soldato.</mods:abstract>\n          <mods:name type=\"personal\">\n            <mods:namePart>Aleramo, Sibilla</mods:namePart>\n            <mods:namePart type=\"date\">1876-1960</mods:namePart>\n            <mods:role>\n              <mods:roleTerm type=\"text\">author</mods:roleTerm>\n            </mods:role>\n          </mods:name>\n          <mods:name type=\"personal\">\n            <mods:namePart>Fiore, Elio</mods:namePart>\n            <mods:role>\n              <mods:roleTerm type=\"text\">recipient</mods:roleTerm>\n            </mods:role>\n          </mods:name>\n          <mods:originInfo>\n            <mods:dateCreated encoding=\"iso8601\">1959-07-23</mods:dateCreated>\n            <mods:place>\n              <mods:placeTerm type=\"text\">Pre-St-Didier</mods:placeTerm>\n            </mods:place>\n          </mods:originInfo>\n          <mods:physicalDescription>\n            <mods:form type=\"material\">Cartaceo</mods:form>\n            <mods:extent>c. 1</mods:extent>\n            <mods:note type=\"condition\">Buono</mods:note>\n          </mods:physicalDescription>\n          <mods:language>\n            <mods:languageTerm type=\"code\" authority=\"iso639-3\">ita</mods:languageTerm>\n          </mods:language>\n          <mods:note type=\"content\">Lettera autografa su carta intestata Hotel Crammont et Des Alpes con busta</mods:note>\n          <mods:note type=\"physical\">Carta intestata con fotografia dell'hotel e informazioni sui servizi</mods:note>\n          <mods:note type=\"archival\">Numero archivistico: 05.1303</mods:note>\n          <mods:location>\n            <mods:physicalLocation type=\"current\">Biblioteca nazionale centrale - Roma</mods:physicalLocation>\n            <mods:shelfLocator>CNMD0000424589</mods:shelfLocator>\n          </mods:location>\n          <mods:recordInfo>\n            <mods:recordContentSource>BNC-ROMA-001</mods:recordContentSource>\n          </mods:recordInfo>\n        </mods:mods>\n      </mets:xmlData>\n    </mets:mdWrap>\n  </mets:dmdSec>\n  <mets:amdSec>\n    <mets:techMD ID=\"TMD_IMG1\">\n      <mets:mdWrap MDTYPE=\"NISOIMG\">\n        <mets:xmlData>\n          <mix:mix>\n            <mix:BasicDigitalObjectInformation>\n              <mix:FormatDesignation>\n                <mix:formatName>image/jpeg</mix:formatName>\n              </mix:FormatDesignation>\n            </mix:BasicDigitalObjectInformation>\n            <mix:BasicImageInformation>\n              <mix:BasicImageCharacteristics>\n                <mix:imageWidth>1805</mix:imageWidth>\n                <mix:imageHeight>2271</mix:imageHeight>\n              </mix:BasicImageCharacteristics>\n            </mix:BasicImageInformation>\n            <mix:ImageCaptureMetadata>\n              <mix:GeneralCaptureInformation>\n                <mix:imageProducer>Canon EOS 2000D</mix:imageProducer>\n              </mix:GeneralCaptureInformation>\n            </mix:ImageCaptureMetadata>\n          </mix:mix>\n        </mets:xmlData>\n      </mets:mdWrap>\n    </mets:techMD>\n    <mets:techMD ID=\"TMD_IMG2\">\n      <mets:mdWrap MDTYPE=\"NISOIMG\">\n        <mets:xmlData>\n          <mix:mix>\n            <mix:BasicDigitalObjectInformation>\n              <mix:FormatDesignation>\n                <mix:formatName>image/jpeg</mix:formatName>\n              </mix:FormatDesignation>\n            </mix:BasicDigitalObjectInformation>\n            <mix:BasicImageInformation>\n              <mix:BasicImageCharacteristics>\n                <mix:imageWidth>1828</mix:imageWidth>\n                <mix:imageHeight>2271</mix:imageHeight>\n              </mix:BasicImageCharacteristics>\n            </mix:BasicImageInformation>\n            <mix:ImageCaptureMetadata>\n              <mix:GeneralCaptureInformation>\n                <mix:imageProducer>Canon EOS 2000D</mix:imageProducer>\n              </mix:GeneralCaptureInformation>\n            </mix:ImageCaptureMetadata>\n          </mix:mix>\n        </mets:xmlData>\n      </mets:mdWrap>\n    </mets:techMD>\n    <mets:techMD ID=\"TMD_IMG3\">\n      <mets:mdWrap MDTYPE=\"NISOIMG\">\n        <mets:xmlData>\n          <mix:mix>\n            <mix:BasicDigitalObjectInformation>\n              <mix:FormatDesignation>\n                <mix:formatName>image/jpeg</mix:formatName>\n              </mix:FormatDesignation>\n            </mix:BasicDigitalObjectInformation>\n            <mix:BasicImageInformation>\n              <mix:BasicImageCharacteristics>\n                <mix:imageWidth>1628</mix:imageWidth>\n                <mix:imageHeight>1329</mix:imageHeight>\n              </mix:BasicImageCharacteristics>\n            </mix:BasicImageInformation>\n            <mix:ImageCaptureMetadata>\n              <mix:GeneralCaptureInformation>\n                <mix:imageProducer>Canon EOS 2000D</mix:imageProducer>\n              </mix:GeneralCaptureInformation>\n            </mix:ImageCaptureMetadata>\n          </mix:mix>\n        </mets:xmlData>\n      </mets:mdWrap>\n    </mets:techMD>\n    <mets:techMD ID=\"TMD_IMG4\">\n      <mets:mdWrap MDTYPE=\"NISOIMG\">\n        <mets:xmlData>\n          <mix:mix>\n            <mix:BasicDigitalObjectInformation>\n              <mix:FormatDesignation>\n                <mix:formatName>image/jpeg</mix:formatName>\n              </mix:FormatDesignation>\n            </mix:BasicDigitalObjectInformation>\n            <mix:BasicImageInformation>\n              <mix:BasicImageCharacteristics>\n                <mix:imageWidth>1685</mix:imageWidth>\n                <mix:imageHeight>1372</mix:imageHeight>\n              </mix:BasicImageCharacteristics>\n            </mix:BasicImageInformation>\n            <mix:ImageCaptureMetadata>\n              <mix:GeneralCaptureInformation>\n                <mix:imageProducer>Canon EOS 2000D</mix:imageProducer>\n              </mix:GeneralCaptureInformation>\n            </mix:ImageCaptureMetadata>\n          </mix:mix>\n        </mets:xmlData>\n      </mets:mdWrap>\n    </mets:techMD>\n    <mets:rightsMD ID=\"BCS\">\n      <mets:mdWrap MDTYPE=\"METSRIGHTS\" MIMETYPE=\"text/xml\" LABEL=\"Rights Metadata\">\n        <mets:xmlData>\n          <metsrights:RightsDeclarationMD>\n            <metsrights:RightsHolder RIGHTSHOLDERID=\"MiC\">\n              <metsrights:RightsHolderName>Ministero della Cultura</metsrights:RightsHolderName>\n            </metsrights:RightsHolder>\n            <metsrights:RightsHolder RIGHTSHOLDERID=\"IT-RM0267\">\n              <metsrights:RightsHolderName>Biblioteca nazionale centrale - Roma</metsrights:RightsHolderName>\n              <metsrights:RightsHolderContact>\n                <metsrights:RightsHolderContactEmail>bnc-rm@cultura.gov.it</metsrights:RightsHolderContactEmail>\n              </metsrights:RightsHolderContact>\n            </metsrights:RightsHolder>\n            <metsrights:Context CONTEXTCLASS=\"OTHER\" OTHERCONTEXTTYPE=\"Standard-IPAC\" CONTEXTID=\"IPAC-PDP-001\">\n              <metsrights:UserName>Standard-IPAC</metsrights:UserName>\n            </metsrights:Context>\n          </metsrights:RightsDeclarationMD>\n        </mets:xmlData>\n      </mets:mdWrap>\n    </mets:rightsMD>\n    <mets:rightsMD ID=\"DCTrights\">\n      <mets:mdWrap LABEL=\"DCT Rights Metadata\" MDTYPE=\"DC\" MIMETYPE=\"text/xml\">\n        <mets:xmlData>\n          <dct:license>https://w3id.org/italia/controlled-vocabulary/licenses/B117_BCS</dct:license>\n          <dct:rights>http://rightsstatements.org/vocab/NoC-OKLR/1.0/</dct:rights>\n        </mets:xmlData>\n      </mets:mdWrap>\n    </mets:rightsMD>\n  </mets:amdSec>\n  <mets:fileSec>\n    <mets:fileGrp ID=\"FILEGRP_INTERNAL\" USE=\"INTERNAL\">\n      <mets:fileGrp ID=\"FILEGRP_IMAGE\" USE=\"IMAGE\">\n        <mets:fileGrp ID=\"FILEGRP_HIGH\" USE=\"HIGH\">\n          <mets:file ADMID=\"TMD_IMG1\" CHECKSUM=\"9ee2b1ddff9310ddea9c2ad65748ec08\" CHECKSUMTYPE=\"MD5\" ID=\"IMG1\" MIMETYPE=\"image/jpeg\" SEQ=\"1\" SIZE=\"0\">\n            <mets:FLocat LOCTYPE=\"URL\" xlink:href=\"./MC0069_CNMD0000424589_00001.jpg\"/>\n          </mets:file>\n          <mets:file ADMID=\"TMD_IMG2\" CHECKSUM=\"b63b385fcbbfa31dc1abcad83364a69b\" CHECKSUMTYPE=\"MD5\" ID=\"IMG2\" MIMETYPE=\"image/jpeg\" SEQ=\"2\" SIZE=\"0\">\n            <mets:FLocat LOCTYPE=\"URL\" xlink:href=\"./MC0069_CNMD0000424589_00002.jpg\"/>\n          </mets:file>\n          <mets:file ADMID=\"TMD_IMG3\" CHECKSUM=\"ea170ede30587d1a7578909d07ff5204\" CHECKSUMTYPE=\"MD5\" ID=\"IMG3\" MIMETYPE=\"image/jpeg\" SEQ=\"3\" SIZE=\"0\">\n            <mets:FLocat LOCTYPE=\"URL\" xlink:href=\"./MC0069_CNMD0000424589_00003.jpg\"/>\n          </mets:file>\n          <mets:file ADMID=\"TMD_IMG4\" CHECKSUM=\"1beb187877918714e81f003d169d1ed2\" CHECKSUMTYPE=\"MD5\" ID=\"IMG4\" MIMETYPE=\"image/jpeg\" SEQ=\"4\" SIZE=\"0\">\n            <mets:FLocat LOCTYPE=\"URL\" xlink:href=\"./MC0069_CNMD0000424589_00004.jpg\"/>\n          </mets:file>\n        </mets:fileGrp>\n      </mets:fileGrp>\n    </mets:fileGrp>\n  </mets:fileSec>\n  <mets:structMap TYPE=\"PHYSICAL\">\n    <mets:div DMDID=\"dmd01\" LABEL=\"Lettera di Sibilla Aleramo a Elio Fiore\" TYPE=\"FOLDER\">\n      <mets:div ID=\"DO_CNMD0000424589_00001\" LABEL=\"Fronte lettera con carta intestata\" ORDER=\"1\" TYPE=\"FILE\">\n        <mets:fptr FILEID=\"IMG1\"/>\n      </mets:div>\n      <mets:div ID=\"DO_CNMD0000424589_00002\" LABEL=\"Retro lettera\" ORDER=\"2\" TYPE=\"FILE\">\n        <mets:fptr FILEID=\"IMG2\"/>\n      </mets:div>\n      <mets:div ID=\"DO_CNMD0000424589_00003\" LABEL=\"Fronte busta con indirizzo e timbri\" ORDER=\"3\" TYPE=\"FILE\">\n        <mets:fptr FILEID=\"IMG3\"/>\n      </mets:div>\n      <mets:div ID=\"DO_CNMD0000424589_00004\" LABEL=\"Retro busta\" ORDER=\"4\" TYPE=\"FILE\">\n        <mets:fptr FILEID=\"IMG4\"/>\n      </mets:div>\n    </mets:div>\n  </mets:structMap>\n  <mets:structMap TYPE=\"LOGICAL\">\n    <mets:div LABEL=\"Lettera con busta\" TYPE=\"FOLDER\">\n      <mets:div LABEL=\"Lettera\" TYPE=\"FOLDER\">\n        <mets:div ID=\"DOL_CNMD0000424589_00001\" LABEL=\"Fronte lettera\" ORDER=\"1\" TYPE=\"FILE\">\n          <mets:fptr FILEID=\"IMG1\"/>\n        </mets:div>\n        <mets:div ID=\"DOL_CNMD0000424589_00002\" LABEL=\"Retro lettera\" ORDER=\"2\" TYPE=\"FILE\">\n          <mets:fptr FILEID=\"IMG2\"/>\n        </mets:div>\n      </mets:div>\n      <mets:div LABEL=\"Busta\" TYPE=\"FOLDER\">\n        <mets:div ID=\"DOL_CNMD0000424589_00003\" LABEL=\"Fronte busta\" ORDER=\"3\" TYPE=\"FILE\">\n          <mets:fptr FILEID=\"IMG3\"/>\n        </mets:div>\n        <mets:div ID=\"DOL_CNMD0000424589_00004\" LABEL=\"Retro busta\" ORDER=\"4\" TYPE=\"FILE\">\n          <mets:fptr FILEID=\"IMG4\"/>\n        </mets:div>\n      </mets:div>\n    </mets:div>\n  </mets:structMap>\n</mets:mets>",
+  "mets_warnings": [
+    "Dimensione file (SIZE) non disponibile nei metadati tecnici - impostata a 0",
+    "Identificativo ISIL IT-RM0267 utilizzato per Biblioteca nazionale centrale - Roma (valore standard)",
+    "Email di contatto bnc-rm@cultura.gov.it è un placeholder - verificare l'indirizzo corretto",
+    "Trascrizione completa disponibile ma non inclusa direttamente nel METS - può essere collegata come file separato se necessario"
+  ],
+  "metadati_tecnici": {
+    "immagini": [
+      {
+        "nome_file": "MC0069_CNMD0000424589_00001.jpg",
+        "impronta_md5": "9ee2b1ddff9310ddea9c2ad65748ec08",
+        "metadati_tecnici": {
+          "formato_file": "JPEG",
+          "risoluzione": {
+            "larghezza": 1805,
+            "altezza": 2271
+          },
+          "estensione_file": "jpg",
+          "strumento_acquisizione": "Canon EOS 2000D"
+        }
+      },
+      {
+        "nome_file": "MC0069_CNMD0000424589_00002.jpg",
+        "impronta_md5": "b63b385fcbbfa31dc1abcad83364a69b",
+        "metadati_tecnici": {
+          "formato_file": "JPEG",
+          "risoluzione": {
+            "larghezza": 1828,
+            "altezza": 2271
+          },
+          "estensione_file": "jpg",
+          "strumento_acquisizione": "Canon EOS 2000D"
+        }
+      },
+      {
+        "nome_file": "MC0069_CNMD0000424589_00003.jpg",
+        "impronta_md5": "ea170ede30587d1a7578909d07ff5204",
+        "metadati_tecnici": {
+          "formato_file": "JPEG",
+          "risoluzione": {
+            "larghezza": 1628,
+            "altezza": 1329
+          },
+          "estensione_file": "jpg",
+          "strumento_acquisizione": "Canon EOS 2000D"
+        }
+      },
+      {
+        "nome_file": "MC0069_CNMD0000424589_00004.jpg",
+        "impronta_md5": "1beb187877918714e81f003d169d1ed2",
+        "metadati_tecnici": {
+          "formato_file": "JPEG",
+          "risoluzione": {
+            "larghezza": 1685,
+            "altezza": 1372
+          },
+          "estensione_file": "jpg",
+          "strumento_acquisizione": "Canon EOS 2000D"
+        }
+      }
+    ],
+    "statistiche": {
+      "numero_immagini": 4
+    }
+  }
+}

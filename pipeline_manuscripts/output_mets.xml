@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:dct="http://purl.org/dc/terms/" xmlns:mix="http://www.loc.gov/mix/v20" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:metsrights="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/standards/mets/mets.xsd http://www.loc.gov/mix/v20 https://www.loc.gov/standards/mix/mix20/mix20.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/mods/v3/mods-3-8.xsd http://cosimo.stanford.edu/sdr/metsrights/ https://www.loc.gov/standards/rights/METSRights.xsd" PROFILE="METS ECO-MiC 1.2" OBJID="METS_CNMD0000424589">
+  <mets:metsHdr ID="ID_CNMD0000424589" CREATEDATE="2025-01-15T12:00:00" RECORDSTATUS="COMPLETE">
+    <mets:agent ROLE="CREATOR" TYPE="ORGANIZATION">
+      <mets:name>Ministero della Cultura</mets:name>
+    </mets:agent>
+    <mets:agent ROLE="IPOWNER" TYPE="ORGANIZATION">
+      <mets:name>Ministero della Cultura</mets:name>
+    </mets:agent>
+    <mets:agent ROLE="CUSTODIAN" TYPE="ORGANIZATION">
+      <mets:name>Biblioteca nazionale centrale - Roma</mets:name>
+    </mets:agent>
+  </mets:metsHdr>
+  <mets:dmdSec ID="dmd01" STATUS="complete">
+    <mets:mdWrap MDTYPE="MODS" MIMETYPE="text/xml" LABEL="MODS Metadata">
+      <mets:xmlData>
+        <mods:mods>
+          <mods:typeOfResource>text</mods:typeOfResource>
+          <mods:genre authority="local">lettera privata</mods:genre>
+          <mods:identifier type="logicalId">CNMD0000424589</mods:identifier>
+          <mods:identifier type="conservativeId">IT-RM0267</mods:identifier>
+          <mods:identifier type="conservativeIdAuthority">ISIL</mods:identifier>
+          <mods:identifier type="managementId">CNMD0000424589</mods:identifier>
+          <mods:identifier type="relationId">representation</mods:identifier>
+          <mods:titleInfo>
+            <mods:title>Lettera di Sibilla Aleramo a Elio Fiore</mods:title>
+          </mods:titleInfo>
+          <mods:abstract>Sibilla Aleramo scrive al soldato Elio Fiore il 23 luglio 1959 da Pré-St-Didier (Valle d'Aosta), dove soggiorna presso l'Hotel Crammont. Si informa su come il destinatario stia trascorrendo gli ultimi giorni con la divisa militare e gli chiede di scriverle. Esprime il desiderio di rimanere in montagna fino a fine agosto per recuperare le forze, lamentando una grande debolezza fisica. Chiede notizie della madre di Elio e si augura che egli affronti serenamente il nuovo periodo di vita da soldato.</mods:abstract>
+          <mods:name type="personal">
+            <mods:namePart>Aleramo, Sibilla</mods:namePart>
+            <mods:namePart type="date">1876-1960</mods:namePart>
+            <mods:role>
+              <mods:roleTerm type="text">author</mods:roleTerm>
+            </mods:role>
+          </mods:name>
+          <mods:name type="personal">
+            <mods:namePart>Fiore, Elio</mods:namePart>
+            <mods:role>
+              <mods:roleTerm type="text">recipient</mods:roleTerm>
+            </mods:role>
+          </mods:name>
+          <mods:originInfo>
+            <mods:dateCreated encoding="iso8601">1959-07-23</mods:dateCreated>
+            <mods:place>
+              <mods:placeTerm type="text">Pre-St-Didier</mods:placeTerm>
+            </mods:place>
+          </mods:originInfo>
+          <mods:physicalDescription>
+            <mods:form type="material">Cartaceo</mods:form>
+            <mods:extent>c. 1</mods:extent>
+            <mods:note type="condition">Buono</mods:note>
+          </mods:physicalDescription>
+          <mods:language>
+            <mods:languageTerm type="code" authority="iso639-3">ita</mods:languageTerm>
+          </mods:language>
+          <mods:note type="content">Lettera autografa su carta intestata Hotel Crammont et Des Alpes con busta</mods:note>
+          <mods:note type="physical">Carta intestata con fotografia dell'hotel e informazioni sui servizi</mods:note>
+          <mods:note type="archival">Numero archivistico: 05.1303</mods:note>
+          <mods:location>
+            <mods:physicalLocation type="current">Biblioteca nazionale centrale - Roma</mods:physicalLocation>
+            <mods:shelfLocator>CNMD0000424589</mods:shelfLocator>
+          </mods:location>
+          <mods:recordInfo>
+            <mods:recordContentSource>BNC-ROMA-001</mods:recordContentSource>
+          </mods:recordInfo>
+        </mods:mods>
+      </mets:xmlData>
+    </mets:mdWrap>
+  </mets:dmdSec>
+  <mets:amdSec>
+    <mets:techMD ID="TMD_IMG1">
+      <mets:mdWrap MDTYPE="NISOIMG">
+        <mets:xmlData>
+          <mix:mix>
+            <mix:BasicDigitalObjectInformation>
+              <mix:FormatDesignation>
+                <mix:formatName>image/jpeg</mix:formatName>
+              </mix:FormatDesignation>
+            </mix:BasicDigitalObjectInformation>
+            <mix:BasicImageInformation>
+              <mix:BasicImageCharacteristics>
+                <mix:imageWidth>1805</mix:imageWidth>
+                <mix:imageHeight>2271</mix:imageHeight>
+              </mix:BasicImageCharacteristics>
+            </mix:BasicImageInformation>
+            <mix:ImageCaptureMetadata>
+              <mix:GeneralCaptureInformation>
+                <mix:imageProducer>Canon EOS 2000D</mix:imageProducer>
+              </mix:GeneralCaptureInformation>
+            </mix:ImageCaptureMetadata>
+          </mix:mix>
+        </mets:xmlData>
+      </mets:mdWrap>
+    </mets:techMD>
+    <mets:techMD ID="TMD_IMG2">
+      <mets:mdWrap MDTYPE="NISOIMG">
+        <mets:xmlData>
+          <mix:mix>
+            <mix:BasicDigitalObjectInformation>
+              <mix:FormatDesignation>
+                <mix:formatName>image/jpeg</mix:formatName>
+              </mix:FormatDesignation>
+            </mix:BasicDigitalObjectInformation>
+            <mix:BasicImageInformation>
+              <mix:BasicImageCharacteristics>
+                <mix:imageWidth>1828</mix:imageWidth>
+                <mix:imageHeight>2271</mix:imageHeight>
+              </mix:BasicImageCharacteristics>
+            </mix:BasicImageInformation>
+            <mix:ImageCaptureMetadata>
+              <mix:GeneralCaptureInformation>
+                <mix:imageProducer>Canon EOS 2000D</mix:imageProducer>
+              </mix:GeneralCaptureInformation>
+            </mix:ImageCaptureMetadata>
+          </mix:mix>
+        </mets:xmlData>
+      </mets:mdWrap>
+    </mets:techMD>
+    <mets:techMD ID="TMD_IMG3">
+      <mets:mdWrap MDTYPE="NISOIMG">
+        <mets:xmlData>
+          <mix:mix>
+            <mix:BasicDigitalObjectInformation>
+              <mix:FormatDesignation>
+                <mix:formatName>image/jpeg</mix:formatName>
+              </mix:FormatDesignation>
+            </mix:BasicDigitalObjectInformation>
+            <mix:BasicImageInformation>
+              <mix:BasicImageCharacteristics>
+                <mix:imageWidth>1628</mix:imageWidth>
+                <mix:imageHeight>1329</mix:imageHeight>
+              </mix:BasicImageCharacteristics>
+            </mix:BasicImageInformation>
+            <mix:ImageCaptureMetadata>
+              <mix:GeneralCaptureInformation>
+                <mix:imageProducer>Canon EOS 2000D</mix:imageProducer>
+              </mix:GeneralCaptureInformation>
+            </mix:ImageCaptureMetadata>
+          </mix:mix>
+        </mets:xmlData>
+      </mets:mdWrap>
+    </mets:techMD>
+    <mets:techMD ID="TMD_IMG4">
+      <mets:mdWrap MDTYPE="NISOIMG">
+        <mets:xmlData>
+          <mix:mix>
+            <mix:BasicDigitalObjectInformation>
+              <mix:FormatDesignation>
+                <mix:formatName>image/jpeg</mix:formatName>
+              </mix:FormatDesignation>
+            </mix:BasicDigitalObjectInformation>
+            <mix:BasicImageInformation>
+              <mix:BasicImageCharacteristics>
+                <mix:imageWidth>1685</mix:imageWidth>
+                <mix:imageHeight>1372</mix:imageHeight>
+              </mix:BasicImageCharacteristics>
+            </mix:BasicImageInformation>
+            <mix:ImageCaptureMetadata>
+              <mix:GeneralCaptureInformation>
+                <mix:imageProducer>Canon EOS 2000D</mix:imageProducer>
+              </mix:GeneralCaptureInformation>
+            </mix:ImageCaptureMetadata>
+          </mix:mix>
+        </mets:xmlData>
+      </mets:mdWrap>
+    </mets:techMD>
+    <mets:rightsMD ID="BCS">
+      <mets:mdWrap MDTYPE="METSRIGHTS" MIMETYPE="text/xml" LABEL="Rights Metadata">
+        <mets:xmlData>
+          <metsrights:RightsDeclarationMD>
+            <metsrights:RightsHolder RIGHTSHOLDERID="MiC">
+              <metsrights:RightsHolderName>Ministero della Cultura</metsrights:RightsHolderName>
+            </metsrights:RightsHolder>
+            <metsrights:RightsHolder RIGHTSHOLDERID="IT-RM0267">
+              <metsrights:RightsHolderName>Biblioteca nazionale centrale - Roma</metsrights:RightsHolderName>
+              <metsrights:RightsHolderContact>
+                <metsrights:RightsHolderContactEmail>bnc-rm@cultura.gov.it</metsrights:RightsHolderContactEmail>
+              </metsrights:RightsHolderContact>
+            </metsrights:RightsHolder>
+            <metsrights:Context CONTEXTCLASS="OTHER" OTHERCONTEXTTYPE="Standard-IPAC" CONTEXTID="IPAC-PDP-001">
+              <metsrights:UserName>Standard-IPAC</metsrights:UserName>
+            </metsrights:Context>
+          </metsrights:RightsDeclarationMD>
+        </mets:xmlData>
+      </mets:mdWrap>
+    </mets:rightsMD>
+    <mets:rightsMD ID="DCTrights">
+      <mets:mdWrap LABEL="DCT Rights Metadata" MDTYPE="DC" MIMETYPE="text/xml">
+        <mets:xmlData>
+          <dct:license>https://w3id.org/italia/controlled-vocabulary/licenses/B117_BCS</dct:license>
+          <dct:rights>http://rightsstatements.org/vocab/NoC-OKLR/1.0/</dct:rights>
+        </mets:xmlData>
+      </mets:mdWrap>
+    </mets:rightsMD>
+  </mets:amdSec>
+  <mets:fileSec>
+    <mets:fileGrp ID="FILEGRP_INTERNAL" USE="INTERNAL">
+      <mets:fileGrp ID="FILEGRP_IMAGE" USE="IMAGE">
+        <mets:fileGrp ID="FILEGRP_HIGH" USE="HIGH">
+          <mets:file ADMID="TMD_IMG1" CHECKSUM="9ee2b1ddff9310ddea9c2ad65748ec08" CHECKSUMTYPE="MD5" ID="IMG1" MIMETYPE="image/jpeg" SEQ="1" SIZE="0">
+            <mets:FLocat LOCTYPE="URL" xlink:href="./MC0069_CNMD0000424589_00001.jpg"/>
+          </mets:file>
+          <mets:file ADMID="TMD_IMG2" CHECKSUM="b63b385fcbbfa31dc1abcad83364a69b" CHECKSUMTYPE="MD5" ID="IMG2" MIMETYPE="image/jpeg" SEQ="2" SIZE="0">
+            <mets:FLocat LOCTYPE="URL" xlink:href="./MC0069_CNMD0000424589_00002.jpg"/>
+          </mets:file>
+          <mets:file ADMID="TMD_IMG3" CHECKSUM="ea170ede30587d1a7578909d07ff5204" CHECKSUMTYPE="MD5" ID="IMG3" MIMETYPE="image/jpeg" SEQ="3" SIZE="0">
+            <mets:FLocat LOCTYPE="URL" xlink:href="./MC0069_CNMD0000424589_00003.jpg"/>
+          </mets:file>
+          <mets:file ADMID="TMD_IMG4" CHECKSUM="1beb187877918714e81f003d169d1ed2" CHECKSUMTYPE="MD5" ID="IMG4" MIMETYPE="image/jpeg" SEQ="4" SIZE="0">
+            <mets:FLocat LOCTYPE="URL" xlink:href="./MC0069_CNMD0000424589_00004.jpg"/>
+          </mets:file>
+        </mets:fileGrp>
+      </mets:fileGrp>
+    </mets:fileGrp>
+  </mets:fileSec>
+  <mets:structMap TYPE="PHYSICAL">
+    <mets:div DMDID="dmd01" LABEL="Lettera di Sibilla Aleramo a Elio Fiore" TYPE="FOLDER">
+      <mets:div ID="DO_CNMD0000424589_00001" LABEL="Fronte lettera con carta intestata" ORDER="1" TYPE="FILE">
+        <mets:fptr FILEID="IMG1"/>
+      </mets:div>
+      <mets:div ID="DO_CNMD0000424589_00002" LABEL="Retro lettera" ORDER="2" TYPE="FILE">
+        <mets:fptr FILEID="IMG2"/>
+      </mets:div>
+      <mets:div ID="DO_CNMD0000424589_00003" LABEL="Fronte busta con indirizzo e timbri" ORDER="3" TYPE="FILE">
+        <mets:fptr FILEID="IMG3"/>
+      </mets:div>
+      <mets:div ID="DO_CNMD0000424589_00004" LABEL="Retro busta" ORDER="4" TYPE="FILE">
+        <mets:fptr FILEID="IMG4"/>
+      </mets:div>
+    </mets:div>
+  </mets:structMap>
+  <mets:structMap TYPE="LOGICAL">
+    <mets:div LABEL="Lettera con busta" TYPE="FOLDER">
+      <mets:div LABEL="Lettera" TYPE="FOLDER">
+        <mets:div ID="DOL_CNMD0000424589_00001" LABEL="Fronte lettera" ORDER="1" TYPE="FILE">
+          <mets:fptr FILEID="IMG1"/>
+        </mets:div>
+        <mets:div ID="DOL_CNMD0000424589_00002" LABEL="Retro lettera" ORDER="2" TYPE="FILE">
+          <mets:fptr FILEID="IMG2"/>
+        </mets:div>
+      </mets:div>
+      <mets:div LABEL="Busta" TYPE="FOLDER">
+        <mets:div ID="DOL_CNMD0000424589_00003" LABEL="Fronte busta" ORDER="3" TYPE="FILE">
+          <mets:fptr FILEID="IMG3"/>
+        </mets:div>
+        <mets:div ID="DOL_CNMD0000424589_00004" LABEL="Retro busta" ORDER="4" TYPE="FILE">
+          <mets:fptr FILEID="IMG4"/>
+        </mets:div>
+      </mets:div>
+    </mets:div>
+  </mets:structMap>
+</mets:mets>

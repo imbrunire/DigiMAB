@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:dct="http://purl.org/dc/terms/" xmlns:mix="http://www.loc.gov/mix/v20" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:metsrights="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/standards/mets/mets.xsd http://www.loc.gov/mix/v20 https://www.loc.gov/standards/mix/mix20/mix20.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/mods/v3/mods-3-8.xsd http://cosimo.stanford.edu/sdr/metsrights/ https://www.loc.gov/standards/rights/METSRights.xsd" PROFILE="METS ECO-MiC 1.2" OBJID="METS_CNMD0000424348">
+  <mets:metsHdr ID="ID_CNMD0000424348" CREATEDATE="2024-01-15T10:00:00" RECORDSTATUS="COMPLETE">
+    <mets:agent ROLE="CREATOR" TYPE="ORGANIZATION">
+      <mets:name>Ministero della Cultura</mets:name>
+    </mets:agent>
+    <mets:agent ROLE="IPOWNER" TYPE="ORGANIZATION">
+      <mets:name>Ministero della Cultura</mets:name>
+    </mets:agent>
+    <mets:agent ROLE="CUSTODIAN" TYPE="ORGANIZATION">
+      <mets:name>Istituto conservatore</mets:name>
+    </mets:agent>
+  </mets:metsHdr>
+  <mets:dmdSec ID="dmd01" STATUS="complete">
+    <mets:mdWrap MDTYPE="MODS" MIMETYPE="text/xml" LABEL="MODS Metadata">
+      <mets:xmlData>
+        <mods:mods>
+          <mods:typeOfResource>text</mods:typeOfResource>
+          <mods:genre>lettera privata</mods:genre>
+          <mods:identifier type="logicalId">CNMD0000424348</mods:identifier>
+          <mods:identifier type="conservativeId">IT-CONSERV</mods:identifier>
+          <mods:identifier type="conservativeIdAuthority">ISIL</mods:identifier>
+          <mods:identifier type="relationId">representation</mods:identifier>
+          <mods:identifier type="managementId">05.1099</mods:identifier>
+          <mods:titleInfo>
+            <mods:title>Lettera di Henry Sewell Stokes a Mrs Laura Price</mods:title>
+          </mods:titleInfo>
+          <mods:abstract>Henry Sewell Stokes scrive da Bodmin a Mrs Laura Price il 25 febbraio 1878. Ringrazia la destinataria per l'invio di un'opera su Campanella, parte della quale era stata portata dal Governatore Mawe Charles, promettendo di restituirla in tempo. Chiede se debba inviare a prendere un volume. Ringrazia anche per l'invio di alcuni giornali, menzionando occasionalmente quello di Newlyn. Si scusa per la fretta dovuta alla presenza di Mrs Jesty.</mods:abstract>
+          <mods:name type="personal">
+            <mods:namePart>Stokes, Henry Sewell</mods:namePart>
+            <mods:namePart type="date">1808-1895</mods:namePart>
+            <mods:role>
+              <mods:roleTerm type="text">author</mods:roleTerm>
+            </mods:role>
+          </mods:name>
+          <mods:name type="personal">
+            <mods:namePart>Price, Laura</mods:namePart>
+            <mods:role>
+              <mods:roleTerm type="text">recipient</mods:roleTerm>
+            </mods:role>
+          </mods:name>
+          <mods:originInfo>
+            <mods:dateCreated encoding="iso8601">1878-02-25</mods:dateCreated>
+            <mods:place>
+              <mods:placeTerm type="text">Bodmin</mods:placeTerm>
+            </mods:place>
+          </mods:originInfo>
+          <mods:physicalDescription>
+            <mods:form type="material">Cartaceo</mods:form>
+            <mods:extent>c. 1</mods:extent>
+            <mods:note type="condition">Buono</mods:note>
+          </mods:physicalDescription>
+          <mods:language>
+            <mods:languageTerm type="code" authority="iso639-3">eng</mods:languageTerm>
+          </mods:language>
+          <mods:note type="content">Lettera manoscritta in corsivo inglese ottocentesco. Carta piegata a metà formando due pagine. Il retro presenta testo molto sbiadito e quasi completamente illeggibile.</mods:note>
+          <mods:recordInfo>
+            <mods:recordContentSource>ARCHIVIO-001</mods:recordContentSource>
+          </mods:recordInfo>
+        </mods:mods>
+      </mets:xmlData>
+    </mets:mdWrap>
+  </mets:dmdSec>
+  <mets:amdSec>
+    <mets:techMD ID="TMD_IMAGE1">
+      <mets:mdWrap MDTYPE="NISOIMG">
+        <mets:xmlData>
+          <mix:mix>
+            <mix:BasicDigitalObjectInformation>
+              <mix:FormatDesignation>
+                <mix:formatName>image/jpeg</mix:formatName>
+              </mix:FormatDesignation>
+              <mix:Compression>
+                <mix:compressionScheme>JPEG</mix:compressionScheme>
+              </mix:Compression>
+            </mix:BasicDigitalObjectInformation>
+            <mix:BasicImageInformation>
+              <mix:BasicImageCharacteristics>
+                <mix:imageWidth>1586</mix:imageWidth>
+                <mix:imageHeight>2448</mix:imageHeight>
+              </mix:BasicImageCharacteristics>
+            </mix:BasicImageInformation>
+          </mix:mix>
+        </mets:xmlData>
+      </mets:mdWrap>
+    </mets:techMD>
+    <mets:techMD ID="TMD_IMAGE2">
+      <mets:mdWrap MDTYPE="NISOIMG">
+        <mets:xmlData>
+          <mix:mix>
+            <mix:BasicDigitalObjectInformation>
+              <mix:FormatDesignation>
+                <mix:formatName>image/jpeg</mix:formatName>
+              </mix:FormatDesignation>
+              <mix:Compression>
+                <mix:compressionScheme>JPEG</mix:compressionScheme>
+              </mix:Compression>
+            </mix:BasicDigitalObjectInformation>
+            <mix:BasicImageInformation>
+              <mix:BasicImageCharacteristics>
+                <mix:imageWidth>1586</mix:imageWidth>
+                <mix:imageHeight>2448</mix:imageHeight>
+              </mix:BasicImageCharacteristics>
+            </mix:BasicImageInformation>
+          </mix:mix>
+        </mets:xmlData>
+      </mets:mdWrap>
+    </mets:techMD>
+    <mets:rightsMD ID="RIGHTS01">
+      <mets:mdWrap MDTYPE="METSRIGHTS" MIMETYPE="text/xml" LABEL="Rights Metadata">
+        <mets:xmlData>
+          <metsrights:RightsDeclarationMD>
+            <metsrights:RightsHolder RIGHTSHOLDERID="MiC">
+              <metsrights:RightsHolderName>Ministero della Cultura</metsrights:RightsHolderName>
+            </metsrights:RightsHolder>
+            <metsrights:Context CONTEXTCLASS="OTHER" OTHERCONTEXTTYPE="Standard-IPAC" CONTEXTID="IPAC-PDP-001">
+              <metsrights:UserName>Standard-IPAC</metsrights:UserName>
+            </metsrights:Context>
+          </metsrights:RightsDeclarationMD>
+        </mets:xmlData>
+      </mets:mdWrap>
+    </mets:rightsMD>
+    <mets:rightsMD ID="DCTrights">
+      <mets:mdWrap LABEL="DCT Rights Metadata" MDTYPE="DC" MIMETYPE="text/xml">
+        <mets:xmlData>
+          <dct:license>https://w3id.org/italia/controlled-vocabulary/licenses/B117_BCS</dct:license>
+          <dct:rights>http://rightsstatements.org/vocab/NoC-OKLR/1.0/</dct:rights>
+        </mets:xmlData>
+      </mets:mdWrap>
+    </mets:rightsMD>
+  </mets:amdSec>
+  <mets:fileSec>
+    <mets:fileGrp ID="FILEGRP_INTERNAL" USE="INTERNAL">
+      <mets:fileGrp ID="FILEGRP_IMAGE" USE="IMAGE">
+        <mets:fileGrp ID="FILEGRP_HIGH" USE="HIGH">
+          <mets:file ADMID="TMD_IMAGE1" CHECKSUM="e1e108bc87b222d9f27444d43af20e91" CHECKSUMTYPE="MD5" ID="IMG_HIGH_001" MIMETYPE="image/jpeg" SEQ="1" SIZE="0">
+            <mets:FLocat LOCTYPE="URL" xlink:href="./MC069_CNMD0000424348_00001.jpg"/>
+          </mets:file>
+          <mets:file ADMID="TMD_IMAGE2" CHECKSUM="74060f6b3c02cef73045e42ee8edf000" CHECKSUMTYPE="MD5" ID="IMG_HIGH_002" MIMETYPE="image/jpeg" SEQ="2" SIZE="0">
+            <mets:FLocat LOCTYPE="URL" xlink:href="./MC069_CNMD0000424348_00002.jpg"/>
+          </mets:file>
+        </mets:fileGrp>
+      </mets:fileGrp>
+    </mets:fileGrp>
+  </mets:fileSec>
+  <mets:structMap TYPE="PHYSICAL">
+    <mets:div DMDID="dmd01" LABEL="Lettera" TYPE="FOLDER">
+      <mets:div ID="DO_CNMD0000424348_00001" LABEL="Pagina 1 - Fronte" ORDER="1" TYPE="FILE">
+        <mets:fptr FILEID="IMG_HIGH_001"/>
+      </mets:div>
+      <mets:div ID="DO_CNMD0000424348_00002" LABEL="Pagina 2 - Retro" ORDER="2" TYPE="FILE">
+        <mets:fptr FILEID="IMG_HIGH_002"/>
+      </mets:div>
+    </mets:div>
+  </mets:structMap>
+</mets:mets>

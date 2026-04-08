@@ -3,8 +3,6 @@ Repository containing material related to DigiMAB - CNSL UniMC project on automa
 
 # 📜 Agentic Framework for Archival Processing
 
-### Metadata · Transcription · Regesto · METS XML (Eco-MIC)
-
 This repository implements an **agent-based framework** for the processing of archival materials, designed for cultural heritage and digital humanities workflows.
 
 The system supports the semi-automatic creation of structured archival data, combining:

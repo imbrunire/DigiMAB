@@ -1,7 +1,7 @@
 # DigiMAB
 Repository containing material related to DigiMAB - CNSL UniMC project on automatic extraction of metadata starting from different sources (handwritten, audios)
 
-# 📜 Agentic Framework for Archival Processing
+# 📜 Agentic Framework for Archival Processing (pipeline_manuscripts folder)
 
 This repository implements an **agent-based framework** for the processing of archival materials, designed for cultural heritage and digital humanities workflows.
 
